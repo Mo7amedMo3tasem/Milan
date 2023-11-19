@@ -822,6 +822,7 @@ body.dark .form .contact .textarea textarea {
 .shop .second-side .cards .text-holder .rate span {
   text-decoration: line-through;
   margin-left: 10px;
+  font-size: 15px;
 }
 .shop .second-side .cards .text-holder span {
   font-size: 22px;
